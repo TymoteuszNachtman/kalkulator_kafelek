@@ -1,0 +1,21 @@
+.input-box{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.align-center{
+    text-align: center;
+}
+
+.center{
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+footer{
+    margin: 0 auto;
+    text-align: center;
+    font-size: .6rem;
+}
